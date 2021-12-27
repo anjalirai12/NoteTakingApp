@@ -1,0 +1,15 @@
+body {
+  position: relative;
+  background-image: url("bg.jpg");
+  background-color: black;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#title_label, #addtxt_label {
+  font-weight: 500;
+}
+
+.delete:hover {
+  background-color: red;
+}
